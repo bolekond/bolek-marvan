@@ -1,5 +1,5 @@
 alpha
 12345
 gamma
-delta
+místo delty píšu hovno
 ted jsem to změnil
